@@ -1,1 +1,1 @@
-# visualizacao_exploratoria_exercicios
+# visualizacao-exploratoria-exercicios
